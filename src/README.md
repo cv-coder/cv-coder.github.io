@@ -3,8 +3,8 @@ home: true
 layout: BlogHome
 icon: home
 title: 博客主页
-heroImage: https://mp-e8d39265-f804-4268-b106-f7990e4ce87e.cdn.bspapp.com/cloudstorage/logo.png
-bgImage: https://w.wallhaven.cc/full/yq/wallhaven-yqqvv7.jpg
+heroImage: https://env-00jxugmemi7a.normal.cloudstatic.cn/logo.jpg?expire_at=1767174965&er_sign=c17a402730a817fb1db70dd82cbf9825
+bgImage: https://env-00jxugmemi7a.normal.cloudstatic.cn/wallhaven-yqqvv7.jpg?expire_at=1767174920&er_sign=46208c1f18064161f869ed5b5bcb9d56
 heroText: cv blog
 heroFullScreen: true
 tagline: 其实不是很难！！！
