@@ -4,7 +4,7 @@ layout: BlogHome
 icon: home
 title: 博客主页
 heroImage: https://mp-e8d39265-f804-4268-b106-f7990e4ce87e.cdn.bspapp.com/cloudstorage/logo.png
-bgImage: https://mp-e8d39265-f804-4268-b106-f7990e4ce87e.cdn.bspapp.com/cloudstorage/blog-bg.jpg
+bgImage: https://w.wallhaven.cc/full/yq/wallhaven-yqqvv7.jpg
 heroText: cv blog
 heroFullScreen: true
 tagline: 其实不是很难！！！
